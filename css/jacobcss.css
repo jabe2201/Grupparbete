@@ -19,3 +19,7 @@ hr {
     margin-top: 50px;
 }
 
+.navbar li{
+    display: inline;
+    font-size: large;
+   }

@@ -1,10 +1,38 @@
-#maincourse {
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 150;
+    margin-bottom: 0%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    margin-top: 0%;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    margin-right: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+iframe {
+    margin: auto;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%;
 }
 
 .explanationtext {
+    text-align: center;
+}
+
+.footer {
     text-align: center;
 }

@@ -25,6 +25,13 @@ nav {
 }
 
 a {
+    color: black;
+    margin-right: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:hover {
+    color: red;
     margin-right: 30px;
     font-family: 'Courier New', Courier, monospace;
 }

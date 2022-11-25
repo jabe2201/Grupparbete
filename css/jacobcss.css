@@ -28,3 +28,11 @@ a {
     margin-right: 30px;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.image img {
+    display: inline;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    align-self: center;
+}

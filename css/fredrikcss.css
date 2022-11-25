@@ -14,6 +14,11 @@ h2 {
     margin-top: 0%;
 }
 
+h3 {
+    text-align: center;
+    margin-top: 0%;
+}
+
 nav {
     text-align: center;
     margin-top: 20px;
@@ -33,7 +38,18 @@ iframe {
     text-align: center;
 }
 
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
 
+ol {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    list-style-position: inside;
+}
 
 .footer {
     text-align: center;

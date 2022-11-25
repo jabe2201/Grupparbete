@@ -19,7 +19,12 @@ hr {
     margin-top: 50px;
 }
 
-.navbar li{
-    display: inline;
-    font-size: large;
-   }
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    margin-right: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}

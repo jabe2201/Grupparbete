@@ -15,7 +15,7 @@ h2 {
 }
 
 hr {
-    width: 80%;
+    width: 90%;
     margin-top: 50px;
 }
 
@@ -29,10 +29,36 @@ a {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.image img {
+a:hover {
+    color: red;
+}
+
+.gallery {
     display: inline;
-    width: 200px;
+    padding: 20px;
+}
+
+.gallery img {
+    height: 250px;
+    margin-top: 20px;
+}
+
+article {
+    margin-left: 240px;
+    margin-right: 200px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    text-align: left;
+}
+
+.banner img{
+    margin-left: 248px;
     height: 200px;
-    margin-left: 100px;
-    align-self: center;
+    width: 1380px;
+}
+
+footer p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }

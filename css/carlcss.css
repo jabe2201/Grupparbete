@@ -14,10 +14,11 @@ h2 {
     margin-top: 0%;
 }
 
-hr {
-    width: 80%;
-    
+h3{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 
 nav {
     text-align: center;
@@ -28,4 +29,45 @@ a {
     color: black;
     margin-right: 30px;
     font-family: 'Courier New', Courier, monospace;
+}
+.dessert{
+    display: flex;
+}
+.dessert img {
+    display: block;
+    width: 50%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+.dessert ul{
+    text-align: left;
+    font-size:30px;
+}
+
+.dessert article{
+margin-left: auto;
+}
+
+.explanation p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
+
+.explanation hr{
+    width: 70%;
+}
+.instruction h3{
+    margin-left: 30%;
+}
+.instruction li{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30%;
 }

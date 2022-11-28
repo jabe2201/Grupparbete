@@ -36,3 +36,7 @@ a {
     margin-left: 100px;
     align-self: center;
 }
+
+p {
+    text-align: center;
+}
